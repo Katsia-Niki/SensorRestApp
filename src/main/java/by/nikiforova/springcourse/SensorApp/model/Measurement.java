@@ -58,7 +58,7 @@ public class Measurement {
         this.measurementTime = measurementTime;
     }
 
-    public Boolean getRaining() {
+    public Boolean isRaining() {
         return raining;
     }
 
